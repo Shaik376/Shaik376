@@ -49,7 +49,6 @@
 - 📄 *AWS Cloud Practitioner Essentials – Coursera*
 - 📄 *Python for Data Science – IBM SkillsBuild*
 
-(*Add actual links or update later*)
 
 ---
 
