@@ -1,38 +1,73 @@
-- 👋 Hi, I’m Shaik Athika [@Shaik376]  
-- 👀 I’m interested in technologies include Python,Devops,Web Development
-- 🌱 I’m currently learning Devops using AWS and CI/CD pipelines using Jenkins
-- 💞️ I’m looking to collaborate on :
-       I’m eager to collaborate on **DevOps** projects, particularly those involving:
-- **CI/CD Pipelines**: Helping build or optimize continuous integration and delivery pipelines using tools like Jenkins, GitLab CI, CircleCI, or GitHub Actions.
-- **Infrastructure as Code (IaC)**: Working with tools like Terraform, Ansible, or AWS CloudFormation to automate infrastructure provisioning.
-- **Cloud Platforms**: Collaborating on cloud solutions, particularly on AWS, Azure, or Google Cloud (GCP), to manage scalable infrastructure.
-- **Monitoring & Logging**: Implementing monitoring and logging solutions using Prometheus, Grafana, ELK Stack, or Datadog to ensure system health and performance.
-- **Security in DevOps**: Enhancing the security of DevOps processes with automated security scans, vulnerability assessments, and compliance checks.
+<h1 align="center">👋 Hi, I'm Shaik Athika!</h1>
 
-- 🔧Technologies & Tools:
- ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
- ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
- ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
- ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
- ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
- ![HTML](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
- ![CSS](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3&logoColor=1572B6)
- ![Shell Scripting](https://img.shields.io/badge/-Shell_Scripting-333333?style=flat&logo=gnu-bash&logoColor=white)
- ![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=jenkins&logoColor=white)
+<p align="center">
+🎓 Data Science graduate | 🚀 DevOps & Cloud Enthusiast | 🐍 Python Developer  
+📍 India | 💻 Always learning, building, and collaborating  
+</p>
 
-- 📈 GitHub Stats:
+---
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shaik376&show_icons=true&theme=radical)
+## 🚀 About Me
+- 🎓 Recent **B.Tech (Data Science)** graduate from RGM College  
+- 💡 Passionate about **Cloud Infrastructure**, **DevOps Automation**, and **Python Development**
+- 🐳 Experienced with containerized multi-service applications using **Docker & Nginx**
+- ☁️ Building and deploying on **AWS**
+- 📊 Data analysis & ML experience using **Python libraries (Pandas, NumPy, Scikit-learn)**
 
-## 📊 Top Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaik376&layout=compact)](https://github.com/Shaik376/github-readme-stats)
+---
 
-- 📫 How to reach me:
-     - Email : shaikathika346@gmail.com 
-     - LinkedIn : www.linkedin.com/in/shaik-athika-33545b256
-- 😄 Pronouns: 
-      She/Her
-<!---
-Shaik376/Shaik376 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🔧 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+---
+
+## 📌 Highlight Projects
+
+### 🐳 [**Multi-Service Docker Nginx Routing**](https://github.com/Shaik376/multi-service-docker-nginx-routing)
+- 🔹 Developed a **multi-containerized app** with Go and Python microservices behind **Nginx reverse proxy**
+- 🔹 Achieved **100% service uptime** and **30% better request efficiency** through health checks and routing
+- 🔹 Integrated structured logging and dynamic API monitoring via Nginx
+
+### 🩺 [**Fog-Based AI Framework for CKD Detection**](https://github.com/your-project-link)
+- 🔹 Created a **machine learning model** using Random Forest & SVM for early CKD detection
+- 🔹 Achieved **95% prediction accuracy** in latency-sensitive edge environments
+- 🔹 Enhanced healthcare responsiveness with fog-level computation
+
+---
+
+## 📜 Certifications
+- 📄 *Docker for Beginners – Udemy*
+- 📄 *AWS Cloud Practitioner Essentials – Coursera*
+- 📄 *Python for Data Science – IBM SkillsBuild*
+
+(*Add actual links or update later*)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shaik376&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaik376&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 📫 Contact Me
+- 📧 Email: **shaikathika346@gmail.com**
+- 🔗 [LinkedIn](https://www.linkedin.com/in/shaik-athika-33545b256)
+- 🐙 [GitHub](https://github.com/Shaik376)
+
+---
+
+### 💪 Let’s build something amazing together!
+
